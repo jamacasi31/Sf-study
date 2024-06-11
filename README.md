@@ -1,10 +1,6 @@
-# My Data Science project
+# My Data Science projects
 
-From the [SkillFactory Data Science course](https://skillfactory.ru/courses/data-science)
 
-## Проекты
-
-* [Проект 0, Игра: Угадай число](https://github.com/jamacasi31/Sf-study/tree/main/project_0)
-* [Проект 1, Анализ резюме из HeadHunter](https://nbviewer.org/github/jamacasi31/Sf-study/blob/main/Project_1/Project_1.ipynb)
+* [Classification ML training, Космический корабль "Титаник"](https://nbviewer.org/github/jamacasi31/Sf-study/blob/main/Classification_ML_training/ML_training.ipynb)
 * [SQL training, Анализ вакансий из HeadHunter](https://nbviewer.org/github/jamacasi31/Sf-study/blob/main/SQL_training/Project_HH.ipynb)
 
